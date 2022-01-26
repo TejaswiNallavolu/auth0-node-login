@@ -6,7 +6,7 @@
     "start": "node ./bin/www"
   },
   "engines": {
-    "node": ">=16.x"
+    "node": ">=14.x"
   },
   "dependencies": {
     "connect-flash": "^0.1.1",
